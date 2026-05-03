@@ -88,8 +88,6 @@ Streamlit
 ### Clone the repository
 git clone <repo-link>
 
-### Navigate to the project directory
-cd <repo-name>
 
 ### Install dependencies
 pip install -r requirements.txt
